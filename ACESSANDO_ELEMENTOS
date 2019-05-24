@@ -1,0 +1,8 @@
+alunos = ["José","Pedro","Leonardo","Maria"]
+
+#teste outras opções de fatiamento:
+print(alunos[0:2])
+print(alunos[0:4])
+print(alunos[3:4])
+print(alunos[-1:]) # acesso a um item pelo final 
+print(alunos[-3:4]) # se -1 é o ultimo elemento, -3 é o antipenultimo
