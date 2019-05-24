@@ -1,4 +1,4 @@
-num=int(input("Digite um numero"))
+num=int(input("Digite um numero:>_________ "))
 contador=1
 while contador <= num:
     if num%2==1:
@@ -11,7 +11,7 @@ while contador <= num:
 
 código 2 : 
 
-num=int(input("Digite um numero"))
+num=int(input("Digite um numero......:     "))
 if num%2==1:
     print("primo")
 else:
