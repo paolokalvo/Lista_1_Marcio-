@@ -5,5 +5,5 @@ while sair:
     if nome_heroi == "sair":
         sair = False
     herois.append(nome_heroi)
-    print ("herois:  ",ferois[:])
+    print ("herois:  ",herois[:])
     
